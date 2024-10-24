@@ -1389,11 +1389,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Harshavardhan_Mitai\\Source\\Repos\\dot-net-training\\MobileCalculatorTesting\\Mobiletesting\\Phone Dial App\\Phone Dial App.csproj",
+      "projectUniqueName": "C:\\PushRequiredProject\\Phone Dial App\\Phone Dial App.csproj",
       "projectName": "Phone Dial App",
-      "projectPath": "C:\\Users\\Harshavardhan_Mitai\\Source\\Repos\\dot-net-training\\MobileCalculatorTesting\\Mobiletesting\\Phone Dial App\\Phone Dial App.csproj",
+      "projectPath": "C:\\PushRequiredProject\\Phone Dial App\\Phone Dial App.csproj",
       "packagesPath": "C:\\Users\\Harshavardhan_Mitai\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Harshavardhan_Mitai\\Source\\Repos\\dot-net-training\\MobileCalculatorTesting\\Mobiletesting\\Phone Dial App\\obj\\",
+      "outputPath": "C:\\PushRequiredProject\\Phone Dial App\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -18,7 +18,7 @@ namespace PhoneAppAutomation.TestsforPhone
         public void DialAPhone()
         {
             PhoneAppPage phoneAppPage = new PhoneAppPage(appiumDriver);
-            PhoneCallPage phoneCallPage = new PhoneCallPage(appiumDriver); 
+            PhoneCallPage phoneCallPage = new PhoneCallPage(appiumDriver ); 
 
             phoneAppPage.ClickNumberEight();
             phoneAppPage.ClickNumberFour();

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ms+o8AEN964=",
+  "dgSpecHash": "hEgLMhRrvTg=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Harshavardhan_Mitai\\Source\\Repos\\dot-net-training\\MobileCalculatorTesting\\Mobiletesting\\Phone Dial App\\Phone Dial App.csproj",
+  "projectFilePath": "C:\\PushRequiredProject\\Phone Dial App\\Phone Dial App.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Harshavardhan_Mitai\\.nuget\\packages\\appium.webdriver\\5.0.0\\appium.webdriver.5.0.0.nupkg.sha512",
     "C:\\Users\\Harshavardhan_Mitai\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",

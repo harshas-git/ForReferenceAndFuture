@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Harshavardhan_Mitai\\Source\\Repos\\dot-net-training\\MobileCalculatorTesting\\Mobiletesting\\AutomatePhoneSmsApp\\AutomatePhoneSmsApp.csproj": {}
+    "C:\\PushRequiredProject\\AutomatePhoneSmsApp\\AutomatePhoneSmsApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Harshavardhan_Mitai\\Source\\Repos\\dot-net-training\\MobileCalculatorTesting\\Mobiletesting\\AutomatePhoneSmsApp\\AutomatePhoneSmsApp.csproj": {
+    "C:\\PushRequiredProject\\AutomatePhoneSmsApp\\AutomatePhoneSmsApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Harshavardhan_Mitai\\Source\\Repos\\dot-net-training\\MobileCalculatorTesting\\Mobiletesting\\AutomatePhoneSmsApp\\AutomatePhoneSmsApp.csproj",
+        "projectUniqueName": "C:\\PushRequiredProject\\AutomatePhoneSmsApp\\AutomatePhoneSmsApp.csproj",
         "projectName": "AutomatePhoneSmsApp",
-        "projectPath": "C:\\Users\\Harshavardhan_Mitai\\Source\\Repos\\dot-net-training\\MobileCalculatorTesting\\Mobiletesting\\AutomatePhoneSmsApp\\AutomatePhoneSmsApp.csproj",
+        "projectPath": "C:\\PushRequiredProject\\AutomatePhoneSmsApp\\AutomatePhoneSmsApp.csproj",
         "packagesPath": "C:\\Users\\Harshavardhan_Mitai\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Harshavardhan_Mitai\\Source\\Repos\\dot-net-training\\MobileCalculatorTesting\\Mobiletesting\\AutomatePhoneSmsApp\\obj\\",
+        "outputPath": "C:\\PushRequiredProject\\AutomatePhoneSmsApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

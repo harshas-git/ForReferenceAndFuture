@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZrcGW6NcRC0=",
+  "dgSpecHash": "IOQixDNpO4A=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Harshavardhan_Mitai\\Source\\Repos\\dot-net-training\\MobileCalculatorTesting\\Mobiletesting\\Calculator App\\Calculator App.csproj",
+  "projectFilePath": "C:\\PushRequiredProject\\Calculator App\\Calculator App.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Harshavardhan_Mitai\\.nuget\\packages\\appium.webdriver\\5.0.0\\appium.webdriver.5.0.0.nupkg.sha512",
     "C:\\Users\\Harshavardhan_Mitai\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",

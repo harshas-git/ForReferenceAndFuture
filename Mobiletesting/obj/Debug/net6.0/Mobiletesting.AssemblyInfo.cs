@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Mobiletesting")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+37b6715284a0feffff2c31c46a829a251fb4bfbe")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b2d25d1d9e43159294f9d60e2500e307bcc98491")]
 [assembly: System.Reflection.AssemblyProductAttribute("Mobiletesting")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Mobiletesting")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

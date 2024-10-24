@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Phone Dial App")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2fdf34ade20267f3a53a4150d7d4099ea85a28ce")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b2d25d1d9e43159294f9d60e2500e307bcc98491")]
 [assembly: System.Reflection.AssemblyProductAttribute("Phone Dial App")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Phone Dial App")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

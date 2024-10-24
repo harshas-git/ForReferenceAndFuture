@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fdvkxaHpaqk=",
+  "dgSpecHash": "33V88p+Fe2M=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Harshavardhan_Mitai\\Source\\Repos\\dot-net-training\\MobileCalculatorTesting\\Mobiletesting\\AutomatePhoneSmsApp\\AutomatePhoneSmsApp.csproj",
+  "projectFilePath": "C:\\PushRequiredProject\\AutomatePhoneSmsApp\\AutomatePhoneSmsApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Harshavardhan_Mitai\\.nuget\\packages\\appium.webdriver\\5.0.0\\appium.webdriver.5.0.0.nupkg.sha512",
     "C:\\Users\\Harshavardhan_Mitai\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",

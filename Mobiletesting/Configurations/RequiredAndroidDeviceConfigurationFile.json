@@ -1,0 +1,9 @@
+{
+  "desiredCapabilities": {
+    "platformName": "Android",
+    "platformVersion": "9",
+    "deviceName": "SAMSUNG SM-G973F",
+    "udid": "RF8M80MCA7Z",
+    "dc": "CIS"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "platformName": "iOS",
+  "platformVersion": "16.2",
+  "deviceName": "IPHONE iPhone12,3",
+  "udid": "00008030-000C312C1E69802E",
+  "dc": "CIS",
+  "automationName": "XCUITest"
+}
